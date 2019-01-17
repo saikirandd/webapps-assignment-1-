@@ -1,8 +1,8 @@
 #  WEBAPPS ASSISNMENT 1 #
 
 ## My lINKS ##
- -  [Webpage ](https://saikirandd.github.io/webapps-assignment-1-/ "page")
--  [Source](https://github.com/saikirandd/webapps-assignment-1- "Working With Markdown Source")
+ -  [link for readme.md](https://saikirandd.github.io/webapps-assignment-1-/ "page")
+-  [Source of readme.md ](https://github.com/saikirandd/webapps-assignment-1- "Source")
 
 ## TO DO ##
 1. heading
