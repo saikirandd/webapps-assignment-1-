@@ -20,7 +20,7 @@
 ![Hosted image](https://upload.wikimedia.org/wikipedia/commons/9/95/Ferrari_P4-5.jpg "Ferrari_P4-5")
 ### image source ###
 ```
-https://en.wikipedia.org/wiki/Enzo_Ferrari_(automobile)#/media/File:Orange_Enzo_Ferrari_(7191948164).jpg
+https://upload.wikimedia.org/wikipedia/commons/9/95/Ferrari_P4-5.jpg
 ```
 ## About ##
 SAI KIRAN DODDAPANENI
