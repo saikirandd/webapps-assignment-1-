@@ -16,7 +16,7 @@
 - list 3
 
 ## image of enzo ferrari ##
-![FERRARI](https://github.com/saikirandd/webapps-assignment-1-/blob/master/Enzo-Ferrari-via-Autoblog-800x445.jpeg {: height="36px" width="36px"} "Enzo ferrari")
+![FERRARI](https://github.com/saikirandd/webapps-assignment-1-/blob/master/Enzo-Ferrari-via-Autoblog-800x445.jpeg {height="36px" width="36px"} "Enzo ferrari")
 
 ### image source ###
 ```
