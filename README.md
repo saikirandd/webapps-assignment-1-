@@ -1,6 +1,6 @@
 #  WEBAPPS ASSISNMENT 1 #
 
-## My lINKS##
+## My lINKS ##
  -  [Webpage ](https://saikirandd.github.io/webapps-assignment-1-/ "page")
 -  [Source](https://github.com/saikirandd/webapps-assignment-1- "Working With Markdown Source")
 
@@ -10,7 +10,7 @@
 1. image link
 1. publish custom guide
 
-##unordered list##
+## unordered list ##
 - list 1
 - list 2
 - list 3
